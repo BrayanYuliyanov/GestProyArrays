@@ -41,4 +41,7 @@ public class Trabajadores {
 
     }
 
+    public static void main(String[] args) {
+        mostrar();
+    }
 }
