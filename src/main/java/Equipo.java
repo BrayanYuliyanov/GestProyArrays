@@ -27,6 +27,10 @@ public class Equipo {
         }
     }
 
+    /*
+    Hola buen día
+     */
+
     public boolean tieneLider() {
         // TODO 21: Saber si el equipo tiene líder
         return false;
