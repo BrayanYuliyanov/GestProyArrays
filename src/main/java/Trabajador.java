@@ -51,6 +51,7 @@ public class Trabajador {
         Trabajador t2 = new Trabajador("Pablo");
         t2.setCategoria(Ctes.CAT_JUNIOR);
         System.out.println(t2);
+
     }
 
 }
