@@ -50,7 +50,8 @@ public class Trabajador {
         System.out.println(t1);
         Trabajador t2 = new Trabajador("Elisa");
         t2.setCategoria(Ctes.CAT_JUNIOR);
-        System.out.println(t1);
+        System.out.println(t2);
+
     }
 
 }
