@@ -1,7 +1,9 @@
 public class App {
 
     private GestProy gestProy;
-
+/*
+* Ayuda
+* */
     public App() {
         // TODO 11: Inicializar atributos
 
