@@ -1,4 +1,7 @@
 public class GestProy {
+    /*
+    * hola soy Aimar
+     */
 
     // region atributos
     private Proyecto proyecto1;
